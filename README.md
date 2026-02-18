@@ -51,9 +51,9 @@
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@kelvindesman-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kelvindesman)
-[![Mastodon](https://img.shields.io/badge/-@kelvindesman-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@kelvindesman)
-[![Bluesky](https://img.shields.io/badge/-kelvindesman-00A8E8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/kelvindesman)
+[![Twitter](https://img.shields.io/badge/-kelvin-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/klvndsmn)
+[![Mastodon](https://img.shields.io/badge/-kelvin-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@kelvindsmn)
+[![Bluesky](https://img.shields.io/badge/-kelvin-00A8E8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/kelvindsmn)
 [![Dev.to](https://img.shields.io/badge/-vousmeevoyez-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/vousmeevoyez)
 [![LinkedIn](https://img.shields.io/badge/-Kelvin_Desman-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klvndsmn)
 
