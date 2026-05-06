@@ -34,7 +34,7 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/vousmeevoyez)
+![GitHub Contribution Graph](https://ghchart.rshah.org/kelvindesman)
 
 ## What I'm Doing
 
